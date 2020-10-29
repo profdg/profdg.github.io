@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="163.74556mm"
+   height="26.528971mm"
+   viewBox="0 0 163.74556 26.528971"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="edg-logo-blk-short-name-only.svg"
+   inkscape:export-filename="C:\Users\darryl\Desktop\digital-namecard-master\assets\edg-logo-blk-short-name-only.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="250.27238"
+     inkscape:cy="95.333629"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid44"
+       originx="-13.395122"
+       originy="-81.363393" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.395122,-168.36339)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.4054257,132.97036)"><flowRegion
+         id="flowRegion20"><rect
+           id="rect22"
+           width="1023.2845"
+           height="178.797"
+           x="55.558392"
+           y="114.8783" /></flowRegion><flowPara
+         id="flowPara24"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.667px;font-family:Montserrat;-inkscape-font-specification:Montserrat">darryl gibbs </flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3732"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3734"><rect
+           id="rect3736"
+           width="650"
+           height="80"
+           x="50"
+           y="433.70081" /></flowRegion><flowPara
+         id="flowPara3738" /></flowRoot>
+  </g>
+</svg>
