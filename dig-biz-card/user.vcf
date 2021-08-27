@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Gibbs;Darryl;;;
+FN: Darryl  Gibbs 
+ORG:Darryl Gibbs English;
+TITLE:Professor de Ingles, Tradutor e Revisor
+EMAIL;type=INTERNET;type=WORK;type=pref:info@dgenglish.org
+TEL;type=WORK;type=VOICE:+55 31 9 8448 5632
+item1.URL;type=pref:dgenglish.org
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
