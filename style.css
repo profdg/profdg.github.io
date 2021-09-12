@@ -263,10 +263,10 @@ section {
 }
 
 /* ==============================================
-   5. Marketing
+   5. Me
 ===============================================*/
 
-#marketing p {
+#me p {
 	font-size: 20px;
     font-weight: 300;
     color: #8da2b5;
@@ -274,7 +274,7 @@ section {
     padding: 0px;
 }
 
-#marketing span {
+#me span {
 	font-weight: 400;
 	color: #0095f7;
 	text-transform: uppercase;
@@ -283,6 +283,10 @@ section {
 
 .content-box {
 	padding: 60px 20px;
+}
+
+#me img {
+	border-radius: 50%;
 }
 
 /* ==============================================
