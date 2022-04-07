@@ -113,6 +113,15 @@ section {
 	border-top: 1px solid #edf1f2
 }
 
+ul li .nav-link {
+	font-size: 16px;
+}
+
+#services ul li {
+	font-size: 16px;
+	color: #3a3f52;
+}
+
 /* ==============================================
    2. Navbar 
 ===============================================*/
@@ -155,6 +164,10 @@ section {
 
 .nav-right {
 	float: right;
+}
+
+.nav-link {
+	font-size: 14px;
 }
 
 /* ==============================================
